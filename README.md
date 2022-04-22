@@ -1,0 +1,2 @@
+# edward-coins
+altcoin
